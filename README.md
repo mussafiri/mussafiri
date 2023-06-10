@@ -1,11 +1,17 @@
 - 👋 Hi, I’m @mussafiri
-- 👀 Am eager to work in UI/UX, Web design, RET API, Backend Development, Systems Architecture
-    ⭐Systems Audit
-    ⭐IT Projects Management
-    ⭐IS Risk Assessment
-    ⭐IT related Tender evaluation.
+- 👀 Am eager to work in:
+    ⭐ ICT Management 
+    ⭐ Systems Audit
+    ⭐ IT Projects Management
+    ⭐ IS Risk Assessment
+    ⭐ IT related Tender evaluation
+    ⭐ UI/UX 
+    ⭐ Web design 
+    ⭐ RET API
+    ⭐ Backend Development 
+    ⭐ Systems Architecture
     
-- 🌱 I’m currently learning CISA, Python - Django, GoLang, and Flutter 
+- 🌱 I’m currently on CISA, Python - Django, GoLang, and Flutter 
 - 💞️ I'm looking enthusiasm development team to collaborate with in projects related to Web Development, Mobile Applications Development.
 - 📫 How to reach me 
     - on Twitter as @MussafiriC 
