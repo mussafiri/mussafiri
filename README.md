@@ -5,7 +5,7 @@
     ⭐IS Risk Assessment
     ⭐IT related Tender evaluation.
     
-- 🌱 I’m currently learning CISA, Python - Dejango, Golang, and Flutter 
+- 🌱 I’m currently learning CISA, Python - Django, GoLang, and Flutter 
 - 💞️ I'm looking enthusiasm development team to collaborate with in projects related to Web Development, Mobile Applications Development.
 - 📫 How to reach me 
     - on Twitter as @MussafiriC 
