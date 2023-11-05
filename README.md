@@ -10,7 +10,10 @@
     ⭐ RET API
     ⭐ Backend Development 
     ⭐ Systems Architecture
-    
+    ⭐ Codigner Framework
+    ⭐ Laravel Framework
+    ⭐ Django Framework
+  
 - 🌱 I’m currently on CISA, Python - Django, GoLang, and Flutter 
 - 💞️ I'm looking enthusiasm development team to collaborate with in projects related to Web Development, Mobile Applications Development.
 - 📫 How to reach me 
